@@ -10,14 +10,9 @@ Original repo: https://github.com/nocean/cf7-honeypot
 
 ## Composer Installation Instructions
 
-1. Add plugin to vendors folder by running ``composer require vendor/package`` in the *root* of the project.
-
-```bash
-composer require kelss/cf7-honeypot
-```
+1. Add plugin to vendors folder by running ``composer require vendor/package`` in the *root* of the project. **Project command:** ``composer require kelss/cf7-honeypot``
 
 2. Then *activate plugin from WordPress Admin*.
-
 
 ## Description
 
