@@ -1,13 +1,13 @@
 {
-    "name": "kelss/cf7-honeypot",
-    "description": "Composer package version of cf7-honeypot WordPress plugin.",
-    "type": "composer-plugin",
-    "license": "GPLv2 or later",
-    "authors": [
-        {
-            "name": "kelsS",
-            "email": "kswanson426@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "kelss/cf7-honeypot",
+  "description": "Composer package version of cf7-honeypot WordPress plugin.",
+  "type": "composer-plugin",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "kelsS",
+      "email": "kswanson426@gmail.com"
+    }
+  ],
+  "require": {}
 }
