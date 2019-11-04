@@ -8,20 +8,20 @@ Original repo: https://github.com/nocean/cf7-honeypot
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-## Composer Installation Instructions:
+## Composer Installation Instructions
 
-Add plugin to vendors folder by running ``composer require vendor/package`` in the *root* of the project.
+1. Add plugin to vendors folder by running ``composer require vendor/package`` in the *root* of the project.
 
 ```bash
 composer require kelss/cf7-honeypot
 ```
 
-Then activate plugin from WordPress Admin.
+2. Then *activate plugin from WordPress Admin*.
+
+
+## Description
 
 Contact Form 7 Honeypot - Adds honeypot anti-spam functionality to CF7 forms.
-
-
-## Description 
 
 This simple addition to the wonderful <a href="http://wordpress.org/extend/plugins/contact-form-7/">Contact Form 7</a> (CF7) plugin adds basic honeypot anti-spam functionality to thwart spambots without the need for an ugly captcha.
 
