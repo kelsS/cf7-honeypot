@@ -14,6 +14,8 @@ Add plugin to vendors folder by running <em>composer require vendor/package</em>
 
 - <em>composer require kelss/cf7-honeypot</em>
 
+Then activate plugin from WordPress Admin.
+
 Contact Form 7 Honeypot - Adds honeypot anti-spam functionality to CF7 forms.
 
 == Description ==
