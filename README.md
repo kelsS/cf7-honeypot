@@ -8,7 +8,8 @@ Original repo: https://github.com/nocean/cf7-honeypot
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-Composer Installation Instructions:
+## Composer Installation Instructions:
+
 Add plugin to vendors folder by running ``composer require vendor/package`` in the *root* of the project.
 
 ```bash
