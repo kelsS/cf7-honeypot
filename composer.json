@@ -9,5 +9,8 @@
       "email": "kswanson426@gmail.com"
     }
   ],
-  "require": {}
+  "require": {},
+  "require-dev": {
+    "wpreadme2markdown/wp2md": "^3.0"
+  }
 }
