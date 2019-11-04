@@ -2,7 +2,7 @@
   "name": "kelss/cf7-honeypot",
   "description": "Composer package version of cf7-honeypot WordPress plugin.",
   "type": "composer-plugin",
-  "license": "GPLv2",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "kelsS",
