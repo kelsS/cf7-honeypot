@@ -8,6 +8,12 @@ Original repo: https://github.com/nocean/cf7-honeypot
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+
+Composer Installation Instructions:
+Add plugin to vendors folder by running <em>composer require vendor/package</em> in the root of the project.
+
+- <em>composer require kelss/cf7-honeypot</em>
+
 Contact Form 7 Honeypot - Adds honeypot anti-spam functionality to CF7 forms.
 
 == Description ==
