@@ -3,8 +3,8 @@ Tags: honeypot, antispam, captcha, spam, form, forms, contact form 7, contactfor
 Requires at least: 3.5
 Tested up to: 4.8.2
 Stable tag: 1.12
-Contributors: DaoByDesign
-Donate link: http://www.nocean.ca/buy-us-a-coffee/
+Contributors: DaoByDesign, kelsS (setup Composer Package repo)
+Original repo: https://github.com/nocean/cf7-honeypot
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
